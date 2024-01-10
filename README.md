@@ -7,5 +7,11 @@ Shradha Khapra
 # Student
 Saurabh Chamoli
 
-# Course
+# Course Name
 Delta
+
+# Regarding
+Web Development
+
+# Duration
+4-5 months
